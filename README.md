@@ -1,4 +1,4 @@
-## Hello there!
+## Hello there! :grin:
 
 ### My name is Daniel Krawczyk. I'm *Junior Front End Developer* and I'm soooo exited that I discovered my new passions which is programming and level-design!
 
