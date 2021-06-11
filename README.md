@@ -2,8 +2,8 @@
 
 ### My name is Daniel Krawczyk. I'm *Junior Front End Developer* and I'm soooo exited that I discovered my new passions which is programming and level-design!
 
-#### 🔭 I'm currently working on: | #### I'm currently learning:
-----------|----------
+🔭 I'm currently working on: | I'm currently learning:
+---------- | ----------
 ##### - Dungeons&Dragons campaign | ##### - PHP and C++
 ##### - Other minor projects | ##### - MySQL
 ##### - Level-design | ##### - How to use Unreal Engine 4
