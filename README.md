@@ -4,8 +4,8 @@
 
 🔭 I'm currently working on: | 🌱 I'm currently learning:
 ---------- | ----------
-Dungeons&Dragons campaign | PHP and C++
-Other minor projects | MySQL
+Dungeons&Dragons campaign | PHP, C++ and C#
+Other minor projects | MySQL, .NET platform
 Level-design | How to use Unreal Engine 4
 
 
