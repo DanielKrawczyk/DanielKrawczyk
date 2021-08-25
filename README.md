@@ -15,7 +15,7 @@ Level-design | How to use Unreal Engine 4
 - [x] LinkedIn: https://www.linkedin.com/in/daniel-krawczyk-webdev/
 - [x] Facebook: https://www.facebook.com/danielkrawczykwebdev/
 - [x] GitHub: You are already here!
-- [x] Portfolio: http://danielsweb.pl
+- [x] Portfolio: http://www.danielsweb.pl/
 
 <!--
 **DanielKrawczyk/DanielKrawczyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
